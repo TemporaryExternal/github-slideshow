@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+WHY DID THE CHICKEN CROSS THE ROAD???
 Use the left arrow to go back!
